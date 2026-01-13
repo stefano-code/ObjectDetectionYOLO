@@ -73,5 +73,5 @@ The app follows a simple and clear pipeline:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/stefano-code/ObjectDetectionYOLO.git
 
